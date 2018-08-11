@@ -6,9 +6,9 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 
 
-public class NameModel
+public class FileNameGenerator
 {
-    public NameModel() {
+    public FileNameGenerator() {
         initDictionary();
     }
     
