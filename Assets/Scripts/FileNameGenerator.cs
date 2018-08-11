@@ -120,7 +120,7 @@ public class FileNameGenerator
         dictionary.Add("raider");
         dictionary.Add("random");
         dictionary.Add("reboot");
-        dictionary.Add("régis");
+        dictionary.Add("regis");
         dictionary.Add("reroll");
         dictionary.Add("rmdir");
         dictionary.Add("rsync");
