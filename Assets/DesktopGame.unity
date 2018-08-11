@@ -750,6 +750,7 @@ MonoBehaviour:
   ScoreText: {fileID: 343283252}
   RunningSpaceText: {fileID: 1295025799}
   ErrorGameOverText: {fileID: 68862488}
+  gameOverSound: {fileID: 8300000, guid: bd8348cb59cb4d745a5bebea1072a09d, type: 3}
 --- !u!82 &1632691215
 AudioSource:
   m_ObjectHideFlags: 0
